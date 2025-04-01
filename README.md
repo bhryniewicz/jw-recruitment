@@ -1,4 +1,4 @@
-#JW Recruitment
+#MyShop
 
 To run app:
 
